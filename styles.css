@@ -1,0 +1,41 @@
+body{
+    background-color: #eff1f9;
+    font-family: sans-serif;
+    font-size:x-large;
+}
+.section{
+    background-color: #bf6363;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 15%;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+.form1{
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+.input1{
+    text-decoration: none;
+    width: 150px;
+    font-family: sans-serif;
+    font-size: 20px;
+    height: 25px;
+}
+#temp_diff{
+    height: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.btn{
+    text-decoration: none;
+    background-color: #404258;
+    color: azure;
+    height: 50px;
+    width: 100px;
+    padding:10px;
+   
+    font-family: sans-serif;
+}
